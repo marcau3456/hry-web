@@ -82,7 +82,7 @@
 </head>
 <body>
     <header>
-        <h1>www.HRY.com</h1>
+        <h1>www.ZAUJIMAVOSTIHRY.com</h1>
     </header>
     <div class="container">
         <div class="post">
